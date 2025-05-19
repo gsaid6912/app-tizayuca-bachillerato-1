@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436501289104",
+    "project_id": "noticiasesti",
+    "storage_bucket": "noticiasesti.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436501289104:android:720d32811178ca4286e015",
+        "android_client_info": {
+          "package_name": "com.tizayuca.bachillerato"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmPrfpxhuyPg31ptPHjnn9QGKbKmOsuW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
