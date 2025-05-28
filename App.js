@@ -12,7 +12,7 @@ export default function App() {
       <Stack.Navigator
         initialRouteName="Login"
         screenOptions={{
-          headerShown: true,  
+          headerShown: true, 
         }}
       >
         <Stack.Screen name="Login" component={LoginScreen} />
